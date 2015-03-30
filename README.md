@@ -1,4 +1,4 @@
-# Sliding-Tile-Puzzle
+# Sliding Tile Puzzle
 Android application that allows one to play a "15-puzzle" game.
 
 The famous fifteen puzzle is a sliding puzzle that consists of a frame of numbered square
@@ -23,3 +23,9 @@ It uses 2-D graphics to display the puzzle board; no use of button is allowed fo
 It uses the Model-View-Control (MVC) metaphor.
 
 It is reconfigurable so that you can change the size of the puzzle easily.
+
+# TODO
+* Timer
+* Records
+* Share with friends your records
+* Picture option
