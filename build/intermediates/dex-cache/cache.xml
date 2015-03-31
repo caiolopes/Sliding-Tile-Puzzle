@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Caio\AndroidstudioProjects\Sliding-Tile-Puzzle\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Caio\AndroidstudioProjects\Sliding-Tile-Puzzle\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-b32c18faf21ee729de717be35ccd0f8ed80109f1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Caio\AndroidstudioProjects\Sliding-Tile-Puzzle\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Caio\AndroidstudioProjects\Sliding-Tile-Puzzle\app\build\intermediates\pre-dexed\debug\classes-b4c7963967397fabd9372377d954f37e43759bd3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Caio\AndroidstudioProjects\PuzzleAndroid\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Caio\AndroidstudioProjects\PuzzleAndroid\app\build\intermediates\pre-dexed\debug\classes-bfa8cbca6edf380e2efc6307c6c944220f571faa.jar" />
+    </item>
+    <item
+        jar="C:\Users\Caio\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Caio\AndroidstudioProjects\PuzzleAndroid\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-2aa08a72bf55b1fa2f77efe4c8cc3bb8c2b1a8c6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Caio\AndroidstudioProjects\PuzzleAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Caio\AndroidstudioProjects\PuzzleAndroid\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-0e29a1ad4ecb486dd453e79f9d2c3736054ba762.jar" />
+    </item>
+    <item
+        jar="C:\Users\Caio\AndroidstudioProjects\PuzzleAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Caio\AndroidstudioProjects\PuzzleAndroid\app\build\intermediates\pre-dexed\debug\classes-45e8e27a0699ba93cc08eb4ff4461c7d7c302101.jar" />
+    </item>
+    <item
+        jar="C:\Users\Caio\AndroidstudioProjects\Sliding-Tile-Puzzle\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Caio\AndroidstudioProjects\Sliding-Tile-Puzzle\app\build\intermediates\pre-dexed\debug\classes-a61f519b1d9aeabafe45e8f8e0a91b806ffbb476.jar" />
+    </item>
+
+</items>
